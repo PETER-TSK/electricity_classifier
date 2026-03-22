@@ -39,3 +39,7 @@ Thumbs.db
 # Secrets / environment
 .env
 *.env
+
+# Project internals
+TODO.md
+*.sqlite
