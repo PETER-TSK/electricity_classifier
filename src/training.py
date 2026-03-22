@@ -1,8 +1,7 @@
 """
 Phase 4 — Model Training.
 
-Trains AutoGluon stacked ensemble classifiers for D+1 (day-ahead)
-and D+7 (week-ahead) price regime prediction using a strict
+Trains AutoGluon stacked ensemble classifiers for D+1 (day-ahead) price regime prediction using a strict
 temporal train / validation / test split.
 """
 from __future__ import annotations
